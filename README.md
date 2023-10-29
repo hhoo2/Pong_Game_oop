@@ -1,4 +1,5 @@
 # Pong Game
+Author - Hay Oo
 
 This is a simple object-oriented implementation of the classic Pong game in Python using the Turtle graphics library. The game sets up a game screen, paddles, a ball, a scoreboard, and a centerline. Players can control their paddles using the keyboard, and the objective is to bounce the ball past the opponent's paddle to score points. The game continues until one player wins by reaching the specified score limit, or you can close the game window by clicking.
 
@@ -26,9 +27,6 @@ This is a simple object-oriented implementation of the classic Pong game in Pyth
 
 - **Left Paddle (Player 2)**: Use the 'W' key to move the paddle up and the 'S' key to move the paddle down.
 
-## Author
-
-- Hay Oo
   
 ## Have Fun!
 
